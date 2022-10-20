@@ -27,3 +27,7 @@ export const products: IProduct[] = [
         }
     }
 ];
+
+// {
+//     <h1>Это текст для коммита</h1>
+// }
